@@ -37,5 +37,6 @@ Verification is done by checking that:
 #  MA 02110-1301, USA.
 #
 ```
-
-- oOo -
+```
+                                - oOo -
+```
